@@ -1,5 +1,5 @@
 {
-    "name": "tebru/gson-php",
+    "name": "togatherfinance/gson-php",
     "description": "Gson for PHP: Convert PHP objects to and from json",
     "type": "library",
     "license": "MIT",
